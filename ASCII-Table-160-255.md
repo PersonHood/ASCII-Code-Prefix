@@ -1,14 +1,15 @@
 # Extended ASCII Characters
 
 ## Usage
-- D: Decimal - \&#38; |
-| - X: Hexadecimal - \&#x0026; |
-| - H: HTML
+- D: Decimal - \&#38;
+- X: Hexadecimal - \&#x0026;
+- H: HTML
 
 ## Printable
 
 ### d160 - d255
-|:---:|:---:|:---:|:---:|
+
+|:---:|:---:|:---:|:---:| 
 | D | X | C | H |
 |`________`|`________`|`________`|`________`|
 | 160 | A0 |  | &#160; |
