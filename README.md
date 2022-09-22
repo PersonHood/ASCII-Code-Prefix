@@ -4,7 +4,7 @@
 - [032-126](ASCII-Table-032-126.md)
 - [160-255](ASCII-Table-160-255.md)
 - [000-255](ASCII-Table-000-255.md)
- 
+- [Prefix](ASCII-Category-Prefixes.md)
 
 Created a table of codes
 
