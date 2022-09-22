@@ -4,7 +4,7 @@
 
 # ASCII Code Prefixes
 
-[README](READMEmd)
+[README](README.md)
 
 ## Extended ASCII Characters
 
@@ -22,6 +22,7 @@
 
 Unique appearance
 
+|   |  |  |   |  |
 |:---:|:---:|:---:|:---:|:---:|
 | ____ | __________ | ___ | ________ | ________ |
 | D | X | C | H | Group |
