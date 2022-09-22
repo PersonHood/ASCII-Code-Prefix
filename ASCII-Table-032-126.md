@@ -1,6 +1,6 @@
 # ASCII Characters
 
-[README](readme.md)
+[README](README.md)
 
 ## Usage
 - D: Decimal - \&#38;
