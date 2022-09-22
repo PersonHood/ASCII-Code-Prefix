@@ -1,4 +1,4 @@
-# ASCII-Code-Prefix
+# ASCII-Code-Prefixes
 
 - [000-031](ASCII-Table-000-031.md)
 - [032-126](ASCII-Table-032-126.md)
