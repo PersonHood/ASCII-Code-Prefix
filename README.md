@@ -1,12 +1,10 @@
 # ASCII-Code-Prefix
 
-ASCII Codes 000-255
-
-Codes-ASCII-000-031.md
-Codes-ASCII-032-160.md
-Codes-ASCII-000-031.md
-Codes-ASCII-000-031.md
-- 
+- [000-031](ASCII-Table-000-031.md)
+- [032-126](ASCII-Table-032-126.md)
+- [160-255](ASCII-Table-160-255.md)
+- [000-255](ASCII-Table-160-255.md)
+ 
 
 Created a table of codes
 
