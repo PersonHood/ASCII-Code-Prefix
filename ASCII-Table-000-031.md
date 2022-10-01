@@ -1,5 +1,7 @@
 # ASCII Characters
 
+[README](README.md)
+
 ## Usage
 - Decimal - \&#38;
 - Hexadecimal - \&#x0026;
